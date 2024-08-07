@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|c:\\users\\usuario\\onedrive - castrocarazo\\documentos\\programacion 2\\bibliotecav\\bibliotecav\\conexion\\clsbibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\conexion\\clsbibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clsprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clsprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clsrevista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clsrevista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clspublicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clspublicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clslibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\bibliotecav\\clsdvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF979CB-99FB-46CB-8D0D-5100207DAAC9}|BibliotecaV\\BibliotecaV.csproj|solutionrelative:bibliotecav\\clsdvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BibliotecaV||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsPrestamo.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsPrestamo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsPrestamo.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsPrestamo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:29:06.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsRevista.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsRevista.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsRevista.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsRevista.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsRevista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:26:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsDVD.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsDVD.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsDVD.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsDVD.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsDVD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:27:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsLibro.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsLibro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsLibro.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsLibro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:26:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsPublicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsPublicacion.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsPublicacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsPublicacion.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsPublicacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:25:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrestable.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\IPrestable.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\IPrestable.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\IPrestable.cs",
+              "RelativeToolTip": "BibliotecaV\\IPrestable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:15:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\Program.cs",
+              "RelativeToolTip": "BibliotecaV\\Program.cs",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAowJkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:11:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsBibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\Conexion\\ClsBibliotecaContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\Conexion\\ClsBibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\Conexion\\ClsBibliotecaContext.cs",
+              "RelativeToolTip": "BibliotecaV\\Conexion\\ClsBibliotecaContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:54:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsUsuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaV\\ClsUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\ClsUsuario.cs",
+              "RelativeToolTip": "BibliotecaV\\ClsUsuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:28:19.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BibliotecaV",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\BibliotecaV.csproj",
+              "RelativeDocumentMoniker": "BibliotecaV\\BibliotecaV.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - CastroCarazo\\Documentos\\PROGRAMACION 2\\BibliotecaV\\BibliotecaV\\BibliotecaV.csproj",
+              "RelativeToolTip": "BibliotecaV\\BibliotecaV.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-03T22:45:38.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
